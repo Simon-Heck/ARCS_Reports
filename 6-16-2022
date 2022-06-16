@@ -1,0 +1,18 @@
+# Weekly Report 6/16/2022
+##Overview:
+  -I've been working a lot on unrealcv and discovering how to interact with the unreal engine using the unrealcv plugin. I also now understand the basic mechanics for unreal 5
+##Completed
+  -Finished learning the important aspects of unreal 5
+  -Feel comfortable with lighting, textures, and blueprints
+###Unreal CV
+  -Worked with professor clark to understand how the branch of unrealcv works with UE5
+  -We successfully built and tested the unrealcv pugin after some trial and error
+  -Figured out how to:
+    -take and save photos
+    -Interact with cameras
+    -simulate keyboard inputs for movement.
+  -I wrote up documentaion and installing and testing unrealcv, linked here: https://docs.google.com/document/d/1JNUTa4mtYO1HfRb6MZphGecvot_VNfFEwurrTE0savI/edit?usp=sharing
+  ##Next Steps
+    -attempt to create a contollable character out of an imported object
+    -figure out how to attach multiple cameras to the movable object to mirror cameras on irl robot
+    -explore more unrealcv commands as well as AI gym 
