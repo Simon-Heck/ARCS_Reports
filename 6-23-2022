@@ -1,0 +1,12 @@
+# Weekly Report 6/23022
+## Overview:
+  - Primarily focusing on installing and seting up openCV, OpenAIGym, and tunnelling between the unrealcv local server and pomona server
+## Completed
+  - Installed and setup WSL 
+  - Successfully sent traffic from pomona server to locally running Unreal5 aplication, however unable to successfully connect to unrealcv
+  - installed WSL Linux version of OpenCV
+  - Installed Enough to attempt a run of OpenAIGym on WSL
+## Next Steps
+  - In the process of reinstalling OpenAI for windows using anoconda
+  - Working to debug connection problem with local unrealcv server and pomona network
+  - Possibly pursuii graphical options for WSL
